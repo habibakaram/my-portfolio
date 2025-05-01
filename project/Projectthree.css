@@ -1,0 +1,143 @@
+/*gdhggeuedg*/
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .headerFirst{
+      display: flex;
+      background-color: black;
+        }
+  
+  
+ .hOne{
+ width: 25%;
+          
+ padding: 15px;
+ /* border: 1px solid red; */
+}
+  
+  
+  
+.hTow{
+width: 50%;
+          
+padding: 15px;
+color: white;
+/* border: 1px solid red; */
+ }
+  
+  
+  
+.hTree{
+width: 25%;
+padding: 15px;
+ color: white;
+  /* border: 1px solid red; */
+ }
+
+
+
+
+
+
+
+.headerSec{
+display: flex;
+      }
+
+
+
+.kOne{
+width: 25%;  
+padding: 15px;
+/* border: 1px solid red; */
+      }
+
+      
+
+.kTow{
+width: 37.5%;  
+padding: 15px;
+/* border: 1px solid red; */
+      }
+      
+.kTree{
+width: 37.5%;  
+padding: 15px;
+/* border: 1px solid red; */
+      }
+
+
+
+      .box{
+        display: flex;
+      }
+      .boxright{
+        width: 60%;  
+        padding: 15px;
+
+        /* border: 1px solid red; */
+       }
+          .boxleft{
+            width: 40%;  
+            padding: 15px;
+            /* border: 1px solid red; */
+          }
+          .square {
+            width: 700px;
+            height: 100px;
+            background-color: #B45F04;
+            margin: 30px auto;
+            border:1px solid black;
+        }
+
+
+
+
+
+        .footerfirst{
+            background-color: black;
+          }
+          
+          .footone{
+            color: white;
+            padding-left: 50px;
+            padding-top: 50px;
+
+          }
+          
+          .put{
+            background-color: white;
+            width: 217px;
+            height: 48px;
+          }
+          
+          .foottow{
+            color: white;
+            padding-left: 100px;
+            padding-top: 50px;
+
+          }
+          
+          .footthree{
+            color: white;
+            padding-left: 100px;
+            padding-top: 50px;
+
+          }
+          
+          .footfour{
+            color: white;
+            padding-left: 100px;
+            padding-top: 50px;
+
+          }
+          
+          .footfive{
+            color: white;
+            padding-left: 100px;
+            padding-top: 50px;
+
+          }
+          

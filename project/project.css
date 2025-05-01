@@ -1,0 +1,682 @@
+/*gdhggeuedg*/
+
+* {
+  box-sizing: border-box;
+}
+
+.headerFirst{
+    display: flex;
+    background-color: black;
+      }
+
+
+      .hOne{
+        width: 25%;
+        
+        padding: 15px;
+        /* border: 1px solid red; */
+      }
+
+
+
+      .hTow{
+        width: 50%;
+        
+        padding: 15px;
+        color: white;
+        /* border: 1px solid red; */
+      }
+
+
+
+      .hTree{
+        width: 25%;
+        
+        padding: 15px;
+        color: white;
+        /* border: 1px solid red; */
+      }
+
+
+
+
+
+
+
+
+
+
+      .headerSec{
+        display: flex;
+          }
+
+
+
+          .kOne{
+            width: 25%;  
+            padding: 15px;
+            /* border: 1px solid red; */
+          }
+
+          
+
+          .kTow{
+            width: 37.5%;  
+            padding: 15px;
+            /* border: 1px solid red; */
+          }
+          
+          .kTree{
+            width: 37.5%;  
+            padding: 15px;
+            /* border: 1px solid red; */
+          }
+
+
+
+
+
+
+
+
+          .box{
+            display: flex;
+          }
+          .boxRight{
+            width: 75%;  
+            padding: 15px;
+           background-color: black;
+
+            /* border: 1px solid red; */
+           }
+
+              .boxLft{
+                width: 25%;  
+                padding: 15px;
+                /* border: 1px solid red; */
+              }
+
+              .a{
+                width: 50%;
+                padding: 15px;
+                color: white;
+              }
+  
+
+.b{
+  width: 50%;
+  padding-top: 56px;
+  color: white;
+ padding-left: 41px;
+}
+.lala{
+  background-color:red;
+  width: 20px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 10px;
+
+}
+
+.beba{
+  margin-left: 10px;
+
+}
+
+.icon{
+  padding-left: 800px;
+}
+
+
+
+.grayone{
+  background-color: gainsboro;
+  width: 24%;
+        
+        padding: auto;
+}
+
+
+.lolo{
+  background-color:red;
+  width: 55px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.kk{
+  padding-left: 250px;
+}
+
+.ee{
+  padding-left: 50px;
+}
+
+.oo{
+  padding-left: 140px;
+}
+
+.graytow{
+  background-color: gainsboro;
+  width: 24%;
+  padding: auto;
+}
+
+.lo{
+  background-color:red;
+  width: 55px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+
+.ke{
+  padding-left: 247px;
+}
+
+
+.tp{
+  background-color: black;
+  color: white;
+  padding-left: 135px;
+}
+
+
+.spaceone{
+  width: 2%;
+        
+        padding: auto;
+}
+
+
+.spacetow{
+  width: 2%;
+        
+        padding: auto;
+}
+
+.ou{
+  padding-left: 140px;
+}
+
+.ff{
+  padding-left: 50px;
+}
+
+
+.graythree{
+  background-color: gainsboro;
+  width: 24%;
+        
+        padding: auto;
+}
+
+
+.koko{
+  background-color:red;
+  width: 55px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.vv{
+  padding-left: 250px;
+}
+
+.ii{
+  padding-left: 50px;
+}
+
+.xx{
+  padding-left: 140px;
+}
+
+
+.grayfour{
+  background-color: gainsboro;
+  width: 24%;
+        
+        padding: auto;
+}
+
+
+.kok{
+  background-color:red;
+  width: 55px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.v{
+  padding-left: 250px;
+}
+
+.i{
+  padding-left: 50px;
+}
+
+.x{
+  padding-left: 140px;
+}
+
+.spacethree{
+  width: 2%;
+        
+        padding: auto;
+}
+
+.spacefour{
+  width: 2%;
+        
+        padding: auto;
+}
+
+.textone{
+  width: 24%;
+        
+       padding-left: 1px;
+}
+
+.texttow{
+  width: 24%;
+        padding-left: 10px;
+}
+
+.textthree{
+  width: 24%;
+        
+        padding-left: 10px;
+}
+
+.textfour{
+  width: 24%;
+        
+        padding-left: 10px;
+}
+
+
+.spacefife{
+  width: 2%;
+        
+        padding: auto;
+}
+
+
+
+.priceone{
+  color: red;
+}
+.jj{
+  color: gray;
+}
+
+.pricetow{
+  color: red;
+}
+.pp{
+  color: gray;
+}
+ 
+
+.gg{
+  color: gray;
+}
+
+
+.uu{
+  color: gray;
+}
+
+
+
+.pricethree{
+  color: red;
+}
+
+
+.jj{
+  color: gray;
+}
+
+.pricefour{
+  color: red;
+  padding-left: 10px;
+}
+.jj{
+  color: gray;
+}
+
+
+.poo{
+  width: 24%;
+        
+  padding-left: 10px;
+}
+
+.soo{
+  width: 24%;
+        
+  padding-left: 10px;
+}
+
+.noo{
+  width: 24%;
+        
+  padding-left: 10px;
+}
+
+.roo{
+  width: 24%;
+        
+  padding-left: 10px;
+}
+
+.spacesix{
+  width: 2%;
+}
+
+
+.iconone{
+  color: orange;
+}
+
+.icontow{
+  padding-left: 160px;
+  color: orange;
+}
+.stargray{
+  color: grey;
+}
+
+.iconthree{
+  padding-left: 175px;
+  color: orange;
+}
+
+.iconfour{
+  padding-left: 175px;
+  color: orange;
+}
+.starog{
+  color: orange;
+  
+}
+
+.botton{
+  padding-left: 605px;
+}
+
+.button3 {background-color: #f44336;
+color: white;
+width: 234px;
+height: 56px;
+} 
+
+
+.papa{
+  
+    background-color:red;
+    width: 20px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 10px;
+  
+  }
+
+  
+  
+.iconn{
+  padding-left: 1045px;
+}
+ 
+
+
+
+
+.phone{
+width: 170px;
+height: 145px;
+margin-left: 100px;
+border:1px solid black;
+}
+
+.iconphone{
+  padding-left: 72px;
+  padding-top: 35px;
+  font-size: x-large;
+}
+
+.textphone{
+  padding-left: 60px;
+  padding-top: 15px;
+}
+
+
+.computer{
+  width: 170px;
+  height: 145px;
+  margin-left: 15px;
+  border:1px solid black;
+  }
+  
+  .iconcomputer{
+    padding-left: 72px;
+    padding-top: 35px;
+    font-size: x-large;
+  }
+  
+  .textcomputer{
+    padding-left: 45px;
+    padding-top: 15px;
+  }
+
+  .smartwatch{
+    width: 170px;
+    height: 145px;
+    margin-left: 15px;
+    border:1px solid black;
+    }
+    
+    .iconsmartwatch{
+      padding-left: 72px;
+      padding-top: 35px;
+      font-size: x-large;
+    }
+    
+    .textsmartwatch{
+      padding-left: 42px;
+      padding-top: 15px;
+    }
+
+    .camera{
+      width: 170px;
+      height: 145px;
+      margin-left: 15px;
+      border:1px solid black;
+      background-color: red;
+      color: white;
+      }
+      
+      .iconcamera{
+        padding-left: 72px;
+        padding-top: 40px;
+        font-size: x-large;
+      }
+      
+      .textcamera{
+        padding-left: 57px;
+        padding-top: 10px;
+      }
+
+
+      .HeadPhones{
+        width: 170px;
+        height: 145px;
+        margin-left: 15px;
+        border:1px solid black;
+        }
+        
+        .iconHeadPhones{
+          padding-left: 72px;
+          padding-top: 35px;
+          font-size: x-large;
+        }
+        
+        .textHeadPhones{
+          padding-left: 40px;
+          padding-top: 15px;
+        }
+
+        .Gaming{
+          width: 170px;
+          height: 145px;
+          margin-left: 15px;
+          border:1px solid black;
+          }
+          
+          .iconGaming{
+            padding-left: 72px;
+            padding-top: 35px;
+            font-size: x-large;
+          }
+          
+          .textGaming{
+            padding-left: 60px;
+            padding-top: 15px;
+          }
+
+
+
+.circle{
+  background-color: black;
+  
+  
+
+}
+
+
+
+
+
+.Categories{
+  color: rgb(112, 240, 112);
+  padding-left: 30px;
+}
+
+.you{
+  color: white;
+  padding-left: 30px;
+}
+.circl{
+width: 62px;
+height: 62px;
+border-radius: 50%;
+background-color: white;
+margin: 30px;
+          }
+
+          .dm{
+padding-left: 20px;
+padding-top: 10px;
+          }
+
+.circltow{
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color:white;
+  margin: 30px;
+            }
+  
+            .ja{
+  padding-left: 20px;
+  padding-top: 10px;
+            }
+
+.circlthree{
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 30px;
+            }
+  
+            .ld{
+  padding-left: 20px;
+  padding-top: 10px;
+            }
+
+.circlfour{
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 30px;
+            }
+  
+            .kc{
+  padding-left: 20px;
+  padding-top: 10px;
+            }
+
+.on{
+  background-color: rgb(101, 224, 101);
+  width: 171px;
+  height: 56px;
+}
+.ton{
+  padding-left: 30px;
+}
+
+.handfree{
+  padding-left: 100px;
+}
+.black{
+  padding-left: 100px;
+  padding-right: 160px;
+}
+
+.footerfirst{
+  background-color: black;
+  
+}
+
+.footone{
+  color: white;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+.put{
+  background-color: white;
+  width: 217px;
+  height: 48px;
+}
+
+.foottow{
+  color: white;
+  padding-left: 100px;
+  padding-top: 50px;
+
+}
+
+.footthree{
+  color: white;
+  padding-left: 100px;
+  padding-top: 50px;
+
+}
+
+.footfour{
+  color: white;
+  padding-left: 100px;
+  padding-top: 50px;
+
+}
+
+.footfive{
+  color: white;
+  padding-left: 100px;
+  padding-top: 50px;
+
+}
